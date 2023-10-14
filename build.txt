@@ -1,0 +1,3 @@
+displayName = Zerg Evolution
+author = Sacramentix
+version = 0.1
