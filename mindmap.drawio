@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Lhx0Sty2yg0TOsdVDHKY" name="Page-1">
-        <mxGraphModel dx="2190" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2082" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -59,26 +59,26 @@
                         <mxPoint x="399.66666666666697" y="520" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="16" value="Basic zerg themed tiles" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="16" value="Basic zerg themed tiles" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
                     <mxGeometry x="340" y="360" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="25" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="17" target="24" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="Mucus block" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="17" value="Mucus block" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
                     <mxGeometry x="150" y="360" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="21" target="23" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="zerg &quot;hive&quot; like queen bee one" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="21" value="zerg &quot;hive&quot; like queen bee one" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
                     <mxGeometry x="530" y="360" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="23" value="Breaking it drop items to craft a weak pheromon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="690" y="360" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="700" y="360" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="add gross slimy sound to break and step meaby" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry y="290" width="120" height="60" as="geometry"/>
+                    <mxGeometry y="360" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="29" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -89,13 +89,13 @@
                 <mxCell id="34" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="28" target="33" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="World generation to add small zerg hive in cave" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="28" value="World generation to add small zerg hive in cave" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
                     <mxGeometry x="340" y="520" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="design a random &quot;structure&quot; with a zerg hive" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="29" value="design a random &quot;structure&quot; with a zerg hive" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
                     <mxGeometry x="150" y="520" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="add a step in the generation pipeline to place it" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="31" value="add a step in the generation pipeline to place it" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
                     <mxGeometry x="530" y="520" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="40" style="edgeStyle=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="33" target="36" edge="1">
@@ -113,41 +113,141 @@
                 <mxCell id="46" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="33" target="45" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="Design first mob" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="33" value="Design first mob" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
                     <mxGeometry x="340" y="680" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="Larva" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="36" value="Larva" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
                     <mxGeometry x="150" y="640" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" value="Cocoon ?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="530" y="740" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="Zergling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="38" value="Zergling" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
                     <mxGeometry x="530" y="640" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="Drone ?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="150" y="740" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="58" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="45" target="47" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="45" target="61">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45" target="68">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="45" value="Create easy zerg invasion with &quot;tier 1&quot; mob" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="970" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="47" target="49" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="47" value="invocation condition" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="510" y="970" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="item to craft to trigger invasion&lt;br&gt;&amp;nbsp;(like goblin banner)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="670" y="930" width="120" height="60" as="geometry"/>
+                <mxCell id="48" value="&lt;font color=&quot;#5c5c5c&quot;&gt;item to craft to trigger invasion&lt;br&gt;&amp;nbsp;(like goblin banner)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#5C5C5C;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="910" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="670" y="1030" width="120" height="60" as="geometry"/>
+                <mxCell id="72" style="edgeStyle=none;html=1;exitX=0.073;exitY=0.997;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=115;entryDy=15;entryPerimeter=0;endArrow=none;endFill=0;exitPerimeter=0;strokeColor=#808080;" edge="1" parent="1" source="49" target="70">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#808080;fontColor=#5C5C5C;endArrow=none;endFill=0;" edge="1" parent="1" source="49" target="85">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FAFAFA;fontColor=#5C5C5C;endArrow=classic;endFill=1;" edge="1" parent="1" source="49" target="89">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="psi emiter" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F0BA07;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="1020" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="50" value="A music" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="150" y="970" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="-20" y="1100" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" value="Sound effect" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="700" y="640" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="52" value="Sound effect" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry y="640" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="mutagen sample" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-230" y="980" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="creep extract" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-425" y="800" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="sticky secretion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-370" y="980" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="bile gland" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-425" y="870" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="61" target="55">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=none;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="61" target="57">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="61" target="56">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="61" target="54">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="crafting component" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-170" y="840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.352;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#808080;" edge="1" parent="1" source="68" target="70">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="490" y="1150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FAFAFA;fontColor=#B0B0B0;endArrow=classic;endFill=1;" edge="1" parent="1" source="68" target="75">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FAFAFA;fontColor=#B0B0B0;endArrow=classic;endFill=1;" edge="1" parent="1" source="68" target="74">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FAFAFA;fontColor=#B0B0B0;endArrow=classic;endFill=1;" edge="1" parent="1" source="68" target="50">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="ZergInvasionBiome" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="1100" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;font color=&quot;#b0b0b0&quot;&gt;The Zerg Invasion&lt;br&gt;work by creating an artificial biome&lt;br&gt;for player near an activated psi emitter&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="1080" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="a shader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-20" y="1210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FAFAFA;fontColor=#B0B0B0;endArrow=classic;endFill=1;" edge="1" parent="1" source="75" target="77">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FAFAFA;fontColor=#B0B0B0;endArrow=classic;endFill=1;" edge="1" parent="1" source="75" target="78">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="a background" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="1210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="surface background" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="1330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="cave background" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="1330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="&lt;font color=&quot;#b0b0b0&quot;&gt;Psi emitter is an &quot;altar&quot; multi tile that you can click to interact with&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+                    <mxGeometry x="860" y="840" width="130" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="OnClick open a menu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="1270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FAFAFA;fontColor=#5C5C5C;endArrow=classic;endFill=1;" edge="1" parent="1" source="89">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="740" y="1270" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="89" value="onClick start invasion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="1140" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
