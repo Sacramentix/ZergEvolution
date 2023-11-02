@@ -1,9 +1,47 @@
 # This file will automatically update with entries for new content after a build and reload
 
 Items: {
-
-	Mucus: {
+	Creep: {
 		Tooltip: ""
-		DisplayName: Mucus
+		DisplayName: Creep
+	}
+
+	ZergHiveItem: {
+		Tooltip: ""
+		DisplayName: Zerg Hive Item
+	}
+
+	MucusItem: {
+		DisplayName: Mucus Item
+		Tooltip: ""
+	}
+
+	ZerglingSpawnEgg: {
+		Tooltip: ""
+		DisplayName: Zergling Spawn Egg
+	}
+
+	LarvaSpawnEgg: {
+		DisplayName: Larva Spawn Egg
+		Tooltip: ""
+	}
+
+	PsiEmitterItem: {
+		Tooltip: ""
+		DisplayName: Psi Emitter Item
 	}
 }
+
+NPCs: {
+	Zergling.DisplayName: Zergling
+	Larva.DisplayName: Larva
+}
+
+Biomes: {
+	ZergEventBiome: {
+		TownNPCDialogueName: the Zerg Event Biome
+		DisplayName: Zerg Event Biome
+	}
+}
+
+Tiles.PsiEmitter.MapEntry: Psi Emitter
